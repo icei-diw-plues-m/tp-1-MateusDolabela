@@ -8,7 +8,7 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 ![print site](images/image.png)
-![print site](images/image 02.png)
+![print site](images/image02.png)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
